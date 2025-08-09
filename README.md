@@ -41,5 +41,5 @@ The project is structured using the **Page Object Model (POM)** design pattern t
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/sarahfaisal/Selenium_Automation.git
+cd Selenium_Automation
