@@ -16,28 +16,6 @@ The project is structured using the **Page Object Model (POM)** design pattern t
 
 ---
 
-## Project Structure
-
-daraz-qa/
-├─ pom.xml
-├─ src/
-│ ├─ main/
-│ │ └─ java/
-│ │ └─ testProject/
-│ │ └─ pages/
-│ │ ├─ BasePage.java
-│ │ ├─ HomePage.java
-│ │ ├─ SearchResultsPage.java
-│ │ └─ ProductPage.java
-│ └─ test/
-│ └─ java/
-│ └─ testProject/
-│ └─ tests/
-│ ├─ BaseTest.java
-│ └─ SearchAndFilterTest.java
-
----
-
 ## Technologies Used
 
 - Java 9+
